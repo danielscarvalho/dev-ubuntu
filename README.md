@@ -7,7 +7,7 @@ This is the list of software for a dev Ubuntu setup
 - JDK - Java 13
 - Eclipse
 - Netbeans
-- Tomcat
+- Apache Tomcat
 - curl
 - gcc
 - Lua Language
