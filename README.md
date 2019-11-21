@@ -36,7 +36,7 @@ This is the list of software for a dev Ubuntu setup
 - VirtualBox Gust Additions
 - OracleJET
 - Ionic
-- Cordova
+- Apache Cordova
 - Apache Ant
 - Axis2-1.7.9
 - Gradle
