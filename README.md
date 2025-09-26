@@ -51,5 +51,6 @@ This is the list of software for a dev Ubuntu setup
 - Wolfram Language
 - Spotify
 - Zoom
+- FileZilla
 - gcloud (GCP, or aws, Azure... etc...)
 
