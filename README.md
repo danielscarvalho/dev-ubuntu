@@ -50,5 +50,6 @@ This is the list of software for a dev Ubuntu setup
 - Mathematica - Wolfram Desktop
 - Wolfram Language
 - Spotify
+- Zoom
 - gcloud (GCP, or aws, Azure... etc...)
 
