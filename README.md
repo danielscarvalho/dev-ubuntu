@@ -46,5 +46,7 @@ This is the list of software for a dev Ubuntu setup
 - Postman
 - curl
 - wget
+- Mathematica - Wolfram Desktop
+- Wolfram Language
 - Spotify
 
