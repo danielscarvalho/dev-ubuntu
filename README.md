@@ -27,6 +27,7 @@ This is the list of software for a dev Ubuntu setup
 - ~~Adobe Backets~~
 - WolframScript
 - Python
+- Anaconda (for Data Science)
 - Pip
 - Jupyter Notebook
 - Spotify
