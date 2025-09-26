@@ -32,18 +32,17 @@ This is the list of software for a dev Ubuntu setup
 - Spotify
 - Postman
 - Maven
-- JavaFX Scene Builder 2.0
+- JavaFX Scene Builder
 - NodeJS
 - NPM
-- Oracle VirtualBox Gust Additions
+- Oracle VirtualBox Guest Additions
 - OracleJET
 - Ionic
 - ~~Apache Cordova~~
 - Apache Ant
-- Axis2-1.7.9
+- Axis2
 - Gradle
 - Android SDK
-- Maven
 - Postman
 - curl
 - wget
