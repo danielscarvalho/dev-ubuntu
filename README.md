@@ -3,10 +3,12 @@ This is the list of software for a dev Ubuntu setup
 
 # Software list
 
-- JDK - Java 8
-- JDK - Java 13
+- ~~JDK - Java 8~~
+- ~~JDK - Java 13~~
+- JDK - Java 11
+- JDK - Java 25
 - Eclipse
-- Netbeans
+- ~~Netbeans~~
 - Apache Tomcat
 - curl
 - gcc
@@ -22,7 +24,7 @@ This is the list of software for a dev Ubuntu setup
 - MongoDB Java Driver - /opt/jdk1.8.0_181/jre/ext
 - Git
 - Visual Studio Code
-- Adobe Backets
+- ~~Adobe Backets~~
 - WolframScript
 - Python
 - Pip
@@ -33,12 +35,17 @@ This is the list of software for a dev Ubuntu setup
 - JavaFX Scene Builder 2.0
 - NodeJS
 - NPM
-- VirtualBox Gust Additions
+- Oracle VirtualBox Gust Additions
 - OracleJET
 - Ionic
-- Apache Cordova
+- ~~Apache Cordova~~
 - Apache Ant
 - Axis2-1.7.9
 - Gradle
 - Android SDK
+- Maven
+- Postman
+- curl
+- wget
+- Spotify
 
